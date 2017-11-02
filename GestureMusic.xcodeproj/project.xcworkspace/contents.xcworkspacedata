@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/6272user/Desktop/GestureMusic/GestureMusic/Love Story.mp3">
+   </FileRef>
+   <FileRef
       location = "self:GestureMusic.xcodeproj">
    </FileRef>
 </Workspace>
